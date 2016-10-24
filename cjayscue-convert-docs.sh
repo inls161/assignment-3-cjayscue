@@ -20,3 +20,5 @@ pandoc -S --title=$fileName -o $fileName.html $fileName && pandoc -S --toc -o $f
 
 # Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
 echo Converted $fileName to HTML, DOCX, ODT, PDF
+
+#extract last 3 from variable or ask user to input file name without.md
