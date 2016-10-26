@@ -6,19 +6,22 @@ echo What markdown file would you like to convert?
 read fileName
 echo Sure, we will convert $fileName
 
+filebase=${fileName%.*}
+echo $filebase
+
 # Convert markdown to HTML
-pandoc -o $fileName.html $fileName
+pandoc -S -o $filebase.html $fileName
 
 # Convert markdown to DOCX
-pandoc -o $fileName.docx $fileName
+pandoc -S -o $filebase.docx $fileName
 
 # Convert markdown to ODT
-pandoc -o $fileName.odt $fileName
+pandoc -S -o $filebase.odt $fileName
 
 # Convert markdown to PDF
-pandoc -S --title=$fileName -o $fileName.html $fileName && pandoc -S --toc -o $fileName.pdf $fileName.html
+pandoc -S -o $filebase.html $fileName && pandoc -S -o $filebase.pdf $filebase.html
 
-# Make the command line read "Converted INPUT-FILENAME to HTML, DOCX, ODT, PDF
-echo Converted $fileName to HTML, DOCX, ODT, PDF
+# Make the command line read "Converted $filename to HTML, DOCX, ODT, PDF
+echo -e      "\e[93m Converted $filebase to HTML, DOCX, ODT, PDF"
 
 #extract last 3 from variable or ask user to input file name without.md

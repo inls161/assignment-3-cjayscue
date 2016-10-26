@@ -1,8 +1,8 @@
-Christiana Ayscue
+## Christiana Ayscue 
 
-INLS 201 – 001
+### INLS 201 – 001  
 
-September 1, 2016
+### September 1, 2016
 
 ***Tasks I perform as a student include…***
 
@@ -22,8 +22,7 @@ September 1, 2016
 
 -   Write papers, create PowerPoints
 
-***The kinds of information I use to perform each task and where the
-information is located…***
+***The kinds of information I use to perform each task and where the information is located…***
 
 -   Textbooks, newspapers, PDF files, blog postings, emails, instructor
     authored documents. Some of these materials are accessed in hard
@@ -78,7 +77,9 @@ information is located…***
 -   I carry the appropriate physical folders with me to class and leave
     the others in my dorm room, rotating them as necessary.
 
--   ![](media/image2.png)![](media/image3.jpeg)Each notebook is assigned
+ ![](media/image2.png)
+ 
+-   Each notebook is assigned
     to a specific class and goes with me to that particular class. Notes
     taken on the computer are put into the appropriate course folder.
     Dates and titles are included with hard copy or electronic notes.
@@ -99,11 +100,7 @@ information is located…***
     are not organized in any particular order. They merely exist to
     ensure an extra copy of a file is available.
 
-**If you were to perform the same task for your email, your digital
-photos, your digital music, and other items of personal interest, **
-
-**what differences would you find in task, information type, and
-structure?**
+***If you were to perform the same task for your email, your digital photos, your digital music, and other items of personal interest, what differences would you find in task, information type, and structure?***
 
 -   **Email:** My personal email accounts don’t look that different from
     my school account. The personal account that I use on a daily basis
@@ -119,7 +116,7 @@ structure?**
     account not only for communication but for extensive storage and a
     way to keep an easily accessible timeline of events and information.
 
--   ![](media/image4.png)**Digital Photos:** I have managed to
+-   **Digital Photos:** I have managed to
     consolidate my plethora of digital photos into one primary location:
     **Amazon Photo**. With Amazon Prime I have unlimited photo storage
     which has enabled me to add all of my old digital photos (going back
@@ -131,7 +128,7 @@ structure?**
     gets upset with me for taking up too much room in storage I can
     simply delete them knowing that a copy is automatically saved in
     Amazon Photo.
-
+                        ![](media/image4.png)
 **Digital Music:** This is where my lack of organization really becomes
 apparent. I utilize a variety of programs to listen to music such as
 ITunes, Spotify, Amazon Prime, Sound Cloud, and Pandora. Within ITunes
@@ -164,8 +161,7 @@ internet I feel no need to spend much time organizing or labeling.
     photo is quite nice, I have no desire to tote around photo albums or
     collections of CDs everywhere I go!
 
-**How much does UNC and/or SILS influence the way you organize your
-digital information?**
+***How much does UNC and/or SILS influence the way you organize your digital information?***
 
 Although I have only been attending classes here for a month, the
 methods I am using for managing and organizing my information are
@@ -242,3 +238,12 @@ Despite the sometimes haphazard state of my handwritten notes, I still
 believe it is worth making the effort to do so whenever possible. Some
 may call my methods outdated but I come from a family of writers where
 pen and paper will always have their value.
+
+
+|    Class                       |         Day                    |      Time      |
+|  ----------                    |     :-------------:            |    ------:     |
+| Global Studies                        M/W/F           | 10:10-11:00a.m.|
+| Tools for Information Literacy |    M/W               | 3:35-4:50 p.m.  |
+| Foundations of Inf. Science                    | T/Th                 |    $1 |
+| Intro to Programming
+| F
