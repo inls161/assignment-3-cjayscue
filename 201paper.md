@@ -128,8 +128,13 @@
     gets upset with me for taking up too much room in storage I can
     simply delete them knowing that a copy is automatically saved in
     Amazon Photo.
-                        ![](media/image4.png)
-**Digital Music:** This is where my lack of organization really becomes
+          ![](media/image4.png)
+
+
+**************
+
+
+- **Digital Music:** This is where my lack of organization really becomes
 apparent. I utilize a variety of programs to listen to music such as
 ITunes, Spotify, Amazon Prime, Sound Cloud, and Pandora. Within ITunes
 and Amazon Prime I have actual MP3s while I only stream with the other
@@ -196,13 +201,7 @@ I do not think that anyone other than myself would be too fond of how I
 store and organize digital music resources (or don’t). That is something
 that will only make sense or be useful to myself alone.
 
-**What percentage of the stuff in your physical space (desk, apartment,
-etc.) **
-
-**and your digital space (laptop, home directory on the network, Google
-space, etc.) **
-
-**is school-related?**
+***What percentage of the stuff in your physical space (desk, apartment, etc.) and your digital space (laptop, home directory on the network, Google space, etc.) is school-related?***
 
 At this point in the semester I can easily assert that the majority of
 time spent on my laptop, the hours of internet/data usage, and the items
@@ -219,8 +218,7 @@ room, the amount of space used for school-related materials is probably
 only about 10%, but the majority of my time in my dorm or apartment is
 spent using that 10%.
 
-**What do you like best about your organizational structure and what do
-you find most challenging?**
+***What do you like best about your organizational structure and what do you find most challenging?***
 
 Ironically, what I like best about my organizational structure and what
 I find most challenging go hand in hand. I believe the best part of my
@@ -240,10 +238,10 @@ may call my methods outdated but I come from a family of writers where
 pen and paper will always have their value.
 
 
-|    Class                       |         Day                    |      Time      |
-|  ----------                    |     :-------------:            |    ------:     |
-| Global Studies                        M/W/F           | 10:10-11:00a.m.|
-| Tools for Information Literacy |    M/W               | 3:35-4:50 p.m.  |
-| Foundations of Inf. Science                    | T/Th                 |    $1 |
-| Intro to Programming
-| F
+| **Class**   |**Meeting Days**|     
+|:-----------:|:--------------:|
+| INLS 161    |  M/W           |
+| INLS 201    |    T/TH        | 
+| INLS 202    | T/TH           |     
+| COMP 110    |  T/TH          |
+| GLBL 201    |  M/W           |    
